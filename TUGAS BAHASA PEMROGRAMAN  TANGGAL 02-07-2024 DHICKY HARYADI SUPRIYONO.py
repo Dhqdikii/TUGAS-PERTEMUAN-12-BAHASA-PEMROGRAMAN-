@@ -3,7 +3,7 @@ library = [
     {"title": "Pikacu end freinds", "author": "Informatika", "year": 2011},
     {"title": "SIzuka VS Naruro", "author": "Sipil", "year": 2012},
     {"title": "Tsunade The legends", "author": "Management", "year": 2013},
-    {"title": "Joker Baik", "author": "Avrian", "Hukum": 2014}
+    {"title": "Joker Baik", "author": "author", "Hukum": 2014}
 ]
 
 def add_book():
